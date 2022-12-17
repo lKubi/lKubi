@@ -1,7 +1,7 @@
 
 # Hey there 👋
 
-Hello, I'm luis, a Computer Science student and a technology lover.
+Hello, I'm Luis, a Computer Science student and a technology lover.
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
