@@ -1,43 +1,83 @@
+# Hi, I'm Luis 👋
 
-# Hey there👋
+[![Email](https://img.shields.io/badge/Email-luizfperezm@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luizfperezm@gmail.com)
+![Location](https://img.shields.io/badge/Galicia%2C_Spain-🇪🇸-lightgrey?style=flat)
 
-I'm Luis, a Computer Science student.
+---
 
+## About me
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+Computer Engineering student at **Universidade de Vigo**, working towards a specialization in cloud infrastructure and cybersecurity. I build and break things in the cloud, automate everything I can, and spend the rest of my time at the gym or gaming.
 
-I'm a tech enthusiast and student at the University of Vigo, always ready to zoom into the world of computer science and technology 🚀. 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🔧 What I'm working on
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+- **Solar Follow Up** — architected a migration from a single-AZ AWS deployment to a multi-AZ high-availability setup using ECS Fargate, Aurora Serverless v2, CloudFront + ALB with VPC Origin, deployed via AWS CDK (Python) and GitLab CI/CD
+- **ContextSpend** — my final degree project: a smart receipt scanner Android app built with Kotlin + Jetpack Compose, OCR/NLP, Room database and a spending analytics dashboard
 
+---
 
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/agile/scrum" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/scrum.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech stack
 
-Skills? Oh, I've got a few tricks up my sleeve 🎩! If you're looking for someone with the finesse of a magician, the coding prowess of a ninja, and the teamwork skills of a synchronized swimming team, you've found your match. I speak the languages of C++, Java, and Python fluently, like they're my BFFs. Git? Well, we go way back, practically inseparable. And when it comes to Agile development, I'm the Usain Bolt of sprinting through user stories. So, whether it's pulling rabbits out of hats or debugging code, I'm your go-to tech wizard!
+**Cloud & DevOps**
 
-<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
+**Languages**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Android**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=flat&logo=android&logoColor=white)
+
+**Tools & platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Tailscale](https://img.shields.io/badge/Tailscale-005CA5?style=flat&logo=tailscale&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+
+---
+
+## 📚 What's next
+
+Planning to pursue a **Master's in Cybersecurity** at UDC. The cloud work got me deep into security — there's a lot of overlap and even more to learn.
+
+---
+
+## ⚡ Outside the terminal
+
+- 🏋️ Gym regular
+- 🎮 Gaming — Hollow Knight, Blasphemous, Pokémon
+- ⛷️ Beginner skier (emphasis on beginner)
+
+---
+
+## 📊 GitHub stats
 
 <div align="center">
 
-<a href="https://github.com/lKubi/">
-  <img src="https://github-readme-stats.vercel.app/api?username=lKubi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lKubi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="lKubi"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lKubi&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=888787)
 
-</a>
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=lKubi&layout=compact&theme=transparent&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=888787)
+
 </div>
 
-<br>
+---
 
-## Contact
-* Email: admin@lfpm.me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lKubi&style=flat&color=7A7ADB" alt="profile views"/>
+</p>
